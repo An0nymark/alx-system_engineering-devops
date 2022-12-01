@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 221 betty
+chmod --x--xr--- betty
