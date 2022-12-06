@@ -1,0 +1,2 @@
+#!/bin/bash
+# SHELL VARIABLES AND EXPANSIONS
